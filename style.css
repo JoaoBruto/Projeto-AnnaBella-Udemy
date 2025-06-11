@@ -1,0 +1,46 @@
+body {
+    background-image: url(arquivos-necessarios-projeto-anna-bella/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#capa {
+    background-position: left;
+    background-attachment: scroll;
+}
+
+.selecoes-de-pagina {
+    font-style: normal;
+    text-decoration: none;
+    color: #4b5664;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#Sobre {
+    font-style: normal;
+    font-weight: bolder;
+    background: #e8e8d9;
+    padding: 15px;
+    width: 51.5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #FF7F50;
+}
+
+#instagram {
+    width: 80px;
+    position: relative;
+    background-position: left;
+    padding: 15px;
+}
+
+#e-mail {
+    width: 80px;
+    position: relative;
+    background-position: left;
+    padding: 15px;
+}
